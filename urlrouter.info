@@ -1,0 +1,5 @@
+name = ICI Redirect
+description = A simple but effective Drupal 7.x URL Router
+package = Tesene
+core = 7.x
+configure = admin/config/search/iciredirect
