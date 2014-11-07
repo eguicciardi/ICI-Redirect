@@ -1,0 +1,7 @@
+<?php
+
+function iciredirect_uninstall() {
+	
+	variable_del("iciredirect_array");
+
+}
